@@ -28,6 +28,7 @@ Please follow these steps to create the project and run
 1. `composer create-project laravel/laravel laravel-todo-list`
 2. `php artisan serve`
 3. `docker compose up` *(to run the docker-compose.yml in the root)*
+
 [What is Artisan Console?](https://laravel.com/docs/11.x/artisan)
 
 ## Steps to run this project
