@@ -64,6 +64,10 @@ Some of the commands that I have come across while working with the project
 - `php artisan migrate` *(Migrate DB changes to database)*
 - `php artisan migrate:refresh --seed` *(Reset data and starts seeding afresh. Shouldn't use in production)*
 
+### Validation
+
+- `php artisan make:request TaskRequest` *(To validate request)*
+
 ## License
 
 This project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
